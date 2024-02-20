@@ -1,0 +1,14 @@
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\bin\Debug\net6.0\Exercice Pratique C#.exe
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\bin\Debug\net6.0\Exercice Pratique C#.deps.json
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\bin\Debug\net6.0\Exercice Pratique C#.runtimeconfig.json
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\bin\Debug\net6.0\Exercice Pratique C#.dll
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\bin\Debug\net6.0\Exercice Pratique C#.pdb
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\obj\Debug\net6.0\Exercice Pratique C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\obj\Debug\net6.0\Exercice Pratique C#.AssemblyInfoInputs.cache
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\obj\Debug\net6.0\Exercice Pratique C#.AssemblyInfo.cs
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\obj\Debug\net6.0\Exercice Pratique C#.csproj.CoreCompileInputs.cache
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\obj\Debug\net6.0\Exercice Pratique C#.dll
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\obj\Debug\net6.0\refint\Exercice Pratique C#.dll
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\obj\Debug\net6.0\Exercice Pratique C#.pdb
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\obj\Debug\net6.0\Exercice Pratique C#.genruntimeconfig.cache
+C:\Users\FranckPERSONNE\source\repos\Exercice Pratique C#\Exercice Pratique C#\obj\Debug\net6.0\ref\Exercice Pratique C#.dll
